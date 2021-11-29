@@ -130,7 +130,8 @@ body {
 }
 
 .list-item__done {
-  text-decoration: line-through color: #888;
+  text-decoration: line-through;
+  color: #888;
 }
 
 .display-none {
