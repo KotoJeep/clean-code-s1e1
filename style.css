@@ -17,7 +17,7 @@ body {
 
 .header__link {
   font-family: fantasy, cursive;
-  display: inline-block; //
+  display: inline-block;
 }
 
 @media (max-width:768px) {
@@ -56,7 +56,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .list {
@@ -135,7 +135,7 @@ body {
 }
 
 .display-none {
-  display: none
+  display: none;
 }
 
 
